@@ -126,6 +126,10 @@ body {
         width: auto;
     }
 
+    .foto {
+        height: auto;
+    }
+    
     .apresentacao__links__link {
         padding: 21.5px 25px;
     }
