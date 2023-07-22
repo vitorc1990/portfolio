@@ -46,7 +46,6 @@ body {
 .foto {
     border-radius: 8px;
     width: 50%;
-    height: auto; 
 }
 
 .apresentacao__conteudo {
@@ -125,5 +124,14 @@ body {
 
     .apresentacao__conteudo {
         width: auto;
+    }
+
+    .apresentacao__links__link {
+        padding: 21.5px 25px;
+    }
+
+    .apresentacao__links__link:hover {
+        padding: 21.5px 25px;
+        background-color: #f6f6f6;
     }
 }
